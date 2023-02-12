@@ -1,2 +1,4 @@
 # bookbot
-This is my first ever git project! I am super excited!
+This was my first ever git project.
+I followed the directions from the website boot.dev.
+The code reads a text file, and counts the number of the words and how many times each letter is repeated.
